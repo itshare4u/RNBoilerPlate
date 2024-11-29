@@ -8,6 +8,7 @@
     "icons": "cd scripts && node icons.js",
     "images": "cd scripts && node images.js",
     "screens": "cd scripts && node generateScreenFile.js",
+    "updateVersion": "cd scripts && node updateVersion.js",
     "svgs": "cd scripts && node svgIcons.js",
     "preios": "ENVFILE=.env",
     "preandroid": "ENVFILE=.env",
@@ -16,7 +17,7 @@
     "postinstall": "npx pod-install",
     "refresh": "bash ./scripts/refresh.sh",
     "start": "react-native start",
-    "prepare":"husky",
+    "prepare": "husky",
     "test": "jest",
     "typescript": "tsc --noEmit"
   },
@@ -90,3 +91,4 @@
     "lib/"
   ]
 }
+
