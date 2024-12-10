@@ -20,6 +20,7 @@ module.exports = {
   plugins: [
     '@typescript-eslint',
     'eslint-plugin-no-inline-styles',
+    'eslint-plugin-prettier',
     'import',
     'react-hooks',
     'sort-keys-fix',
