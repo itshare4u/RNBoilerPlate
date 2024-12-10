@@ -1,6 +1,6 @@
 {
   "name": "@itshare4u/rnboilerplate",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "React native boilerplate",
   "main": "index.js",
   "scripts": {
