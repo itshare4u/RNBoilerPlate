@@ -1,10 +1,13 @@
 {
   "name": "@itshare4u/rnboilerplate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React native boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/itshare4u/RNBoilerPlate.git"
   },
   "keywords": [
     "boilerplate",
