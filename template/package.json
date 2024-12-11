@@ -8,6 +8,7 @@
     "icons": "cd scripts && node icons.js",
     "images": "cd scripts && node images.js",
     "screens": "cd scripts && node generateScreenFile.js",
+    "components": "cd scripts && node generateComponentFile.js",
     "updateVersion": "cd scripts && node updateVersion.js",
     "svgs": "cd scripts && node svgIcons.js",
     "preios": "ENVFILE=.env",
